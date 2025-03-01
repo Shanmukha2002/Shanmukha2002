@@ -16,8 +16,6 @@ I'm an engineering student with a keen interest in web development and design. I
 
 - **HTML5** – Building the structure of the web.
 - **CSS3** – Styling the web with creativity and precision.
-- **Tailwind CSS** – Utility-first CSS framework for modern, scalable designs.
-- **Responsive Design** – Ensuring that projects look great across devices (mobile, tablet, desktop).
 
 ---
 
