@@ -35,9 +35,7 @@ Feel free to explore these projects to see my work in action!
 
 If you’d like to collaborate on a project, ask questions, or simply chat about tech, feel free to reach out! I’m always open to new opportunities and learning from others.
 
-- GitHub: [@Shanmukha](https://github.com/your-username)
-- Email: [your-email@example.com](mailto:your-email@example.com)
-
+- GitHub: [@Shanmukha](https://github.com/Shanmukha2002)
 ---
 
 Thank you for visiting my GitHub profile. 😊
